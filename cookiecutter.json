@@ -1,8 +1,8 @@
 {
-    "project_name": "project_name",
+    "project_name": "POSDAAS",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "jupyter_host_port": "8888",
-    "description": "Please Input a short description",
+    "description": "Error level analysis",
     "data_source_type": ["s3", "nfs", "url"],
     "data_source": "Please Input data source",
     "use_nvidia_docker": ["no", "yes"]
