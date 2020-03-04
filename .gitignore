@@ -1,6 +1,0 @@
-*~
-.idea
-*.iml
-.tox
-.pytest_cache
-__pycache__
