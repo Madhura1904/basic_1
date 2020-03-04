@@ -1,5 +1,5 @@
 {
-    "project_name": "xxyss",
+    "project_name": "POSDAAS",
     "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
     "jupyter_host_port": "8888",
     "description": "Reciept analysis",
